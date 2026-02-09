@@ -1,4 +1,12 @@
-# The-perfect-guess
-this is an interesting simple game between me and computer where computer thinks a number and asks me about guessing the number 
-<br>
-Author -- Ali Gul Tunio
+# The Perfect Guess 🎯
+
+This is a simple Python game where the computer thinks of a number
+and the user tries to guess it.
+
+## Features
+- Random number generation
+- Higher / lower hints
+- Counts total attempts
+
+## Author
+Ali Gul Tunio
